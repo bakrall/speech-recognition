@@ -1,0 +1,14 @@
+{
+  "name": "speech-recognition",
+  "version": "1.0.0",
+  "description": "Based on Wes Bos tutorial javascript30.com 'Native Speech Recognition'",
+  "main": "main.js",
+  "scripts": {
+    "start" : "browser-sync start --directory --server --files '*.css, *.html, *.js'"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
